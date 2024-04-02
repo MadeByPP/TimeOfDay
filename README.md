@@ -11,7 +11,7 @@ This is a fork of the TimeOfDay plugin on uMod.
 
 No, existing configs will work.
 
-### The offset time does not seem to be correct.
+#### The offset time does not seem to be correct.
 
 This phenomenon occurs because when time is a condition, it is checked in hourly increments and when the time changes, it changes immediately.
 
