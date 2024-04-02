@@ -15,7 +15,7 @@ No, existing configs will work.
 
 This phenomenon occurs because when time is a condition, it is checked in hourly increments and when the time changes, it changes immediately.
 
-For example, 'Change to night at 19:45.' is a condition
+For example, 'Change to morning at 19:45.' is a condition
 and 'If night is skipped, change morning to 7:25.' is a time change.
 
 That's because of limitations in the way this plugin works.
