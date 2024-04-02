@@ -3,7 +3,7 @@ This is a fork of the TimeOfDay plugin on uMod.
 [https://umod.org/plugins/time-of-day](https://umod.org/plugins/time-of-day)
 
 ## Differences from uMod version
-- A TimeOffset option is provided to change the night start time and day start time.
+- A TimeOffset option is provided in the configuration to change the night start time and day start time.
 
 ## FAQ
 
